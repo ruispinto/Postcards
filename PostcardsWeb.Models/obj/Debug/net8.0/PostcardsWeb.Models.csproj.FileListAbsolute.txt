@@ -1,0 +1,12 @@
+C:\Work\repos\PostcardsWeb\PostcardsWeb.Models\bin\Debug\net8.0\PostcardsWeb.Models.deps.json
+C:\Work\repos\PostcardsWeb\PostcardsWeb.Models\bin\Debug\net8.0\PostcardsWeb.Models.dll
+C:\Work\repos\PostcardsWeb\PostcardsWeb.Models\bin\Debug\net8.0\PostcardsWeb.Models.pdb
+C:\Work\repos\PostcardsWeb\PostcardsWeb.Models\obj\Debug\net8.0\PostcardsWeb.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\repos\PostcardsWeb\PostcardsWeb.Models\obj\Debug\net8.0\PostcardsWeb.Models.AssemblyInfoInputs.cache
+C:\Work\repos\PostcardsWeb\PostcardsWeb.Models\obj\Debug\net8.0\PostcardsWeb.Models.AssemblyInfo.cs
+C:\Work\repos\PostcardsWeb\PostcardsWeb.Models\obj\Debug\net8.0\PostcardsWeb.Models.csproj.CoreCompileInputs.cache
+C:\Work\repos\PostcardsWeb\PostcardsWeb.Models\obj\Debug\net8.0\PostcardsWeb.Models.dll
+C:\Work\repos\PostcardsWeb\PostcardsWeb.Models\obj\Debug\net8.0\refint\PostcardsWeb.Models.dll
+C:\Work\repos\PostcardsWeb\PostcardsWeb.Models\obj\Debug\net8.0\PostcardsWeb.Models.pdb
+C:\Work\repos\PostcardsWeb\PostcardsWeb.Models\obj\Debug\net8.0\ref\PostcardsWeb.Models.dll
+C:\Work\repos\PostcardsWeb\PostcardsWeb.Models\obj\Debug\net8.0\PostcardsWeb.Models.sourcelink.json

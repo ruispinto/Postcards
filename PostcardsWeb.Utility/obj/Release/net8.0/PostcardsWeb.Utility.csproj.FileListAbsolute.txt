@@ -1,0 +1,13 @@
+C:\Work\repos\PostcardsWeb\PostcardsWeb.Utility\bin\Release\net8.0\PostcardsWeb.Utility.deps.json
+C:\Work\repos\PostcardsWeb\PostcardsWeb.Utility\bin\Release\net8.0\PostcardsWeb.Utility.dll
+C:\Work\repos\PostcardsWeb\PostcardsWeb.Utility\bin\Release\net8.0\PostcardsWeb.Utility.pdb
+C:\Work\repos\PostcardsWeb\PostcardsWeb.Utility\obj\Release\net8.0\PostcardsWeb.Utility.csproj.AssemblyReference.cache
+C:\Work\repos\PostcardsWeb\PostcardsWeb.Utility\obj\Release\net8.0\PostcardsWeb.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\repos\PostcardsWeb\PostcardsWeb.Utility\obj\Release\net8.0\PostcardsWeb.Utility.AssemblyInfoInputs.cache
+C:\Work\repos\PostcardsWeb\PostcardsWeb.Utility\obj\Release\net8.0\PostcardsWeb.Utility.AssemblyInfo.cs
+C:\Work\repos\PostcardsWeb\PostcardsWeb.Utility\obj\Release\net8.0\PostcardsWeb.Utility.csproj.CoreCompileInputs.cache
+C:\Work\repos\PostcardsWeb\PostcardsWeb.Utility\obj\Release\net8.0\PostcardsWeb.Utility.sourcelink.json
+C:\Work\repos\PostcardsWeb\PostcardsWeb.Utility\obj\Release\net8.0\PostcardsWeb.Utility.dll
+C:\Work\repos\PostcardsWeb\PostcardsWeb.Utility\obj\Release\net8.0\refint\PostcardsWeb.Utility.dll
+C:\Work\repos\PostcardsWeb\PostcardsWeb.Utility\obj\Release\net8.0\PostcardsWeb.Utility.pdb
+C:\Work\repos\PostcardsWeb\PostcardsWeb.Utility\obj\Release\net8.0\ref\PostcardsWeb.Utility.dll

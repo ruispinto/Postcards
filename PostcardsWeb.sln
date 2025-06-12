@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PostcardsWeb", "PostcardsWeb\PostcardsWeb.csproj", "{CE49A73C-F553-4221-9F23-634D95939960}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostcardsWeb.DataAccess", "PostcardsWeb.DataAccess\PostcardsWeb.DataAccess.csproj", "{D7E48FAC-BBBB-4A52-B628-599498C18C63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostcardsWeb.Models", "PostcardsWeb.Models\PostcardsWeb.Models.csproj", "{0A147B10-6432-4A1A-9BF9-2D48EE0ECFF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostcardsWeb.Utility", "PostcardsWeb.Utility\PostcardsWeb.Utility.csproj", "{96F50878-5387-4830-A845-F1C9B8D386FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE49A73C-F553-4221-9F23-634D95939960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE49A73C-F553-4221-9F23-634D95939960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE49A73C-F553-4221-9F23-634D95939960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE49A73C-F553-4221-9F23-634D95939960}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7E48FAC-BBBB-4A52-B628-599498C18C63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7E48FAC-BBBB-4A52-B628-599498C18C63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7E48FAC-BBBB-4A52-B628-599498C18C63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7E48FAC-BBBB-4A52-B628-599498C18C63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A147B10-6432-4A1A-9BF9-2D48EE0ECFF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A147B10-6432-4A1A-9BF9-2D48EE0ECFF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A147B10-6432-4A1A-9BF9-2D48EE0ECFF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A147B10-6432-4A1A-9BF9-2D48EE0ECFF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96F50878-5387-4830-A845-F1C9B8D386FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96F50878-5387-4830-A845-F1C9B8D386FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96F50878-5387-4830-A845-F1C9B8D386FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96F50878-5387-4830-A845-F1C9B8D386FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A45FDFC-5930-4892-A064-D121F9C7FFCA}
+	EndGlobalSection
+EndGlobal

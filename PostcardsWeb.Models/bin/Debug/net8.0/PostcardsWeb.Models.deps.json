@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PostcardsWeb.Models/1.0.0": {
+        "runtime": {
+          "PostcardsWeb.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PostcardsWeb.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
